@@ -1,4 +1,4 @@
-## Blog Using GatsbyJS 
+## Blog Using GatsbyJS [![CodeFactor](https://www.codefactor.io/repository/github/daijobudes/gatsbyjs-blog/badge)](https://www.codefactor.io/repository/github/daijobudes/gatsbyjs-blog)
 To make this work, make sure you have `nodejs` installed.
 
 ### Installing Gatsby CLI
