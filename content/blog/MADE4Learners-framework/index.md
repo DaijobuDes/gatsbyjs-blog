@@ -21,4 +21,12 @@ it shouldn't be a problem unless internet is cut off, it is a big
 problem to me. Using mobile data can be very wasteful, especially
 if data is limited. When it comes to using video, it would probably use up to `1 GB` of data in an average of one hour.
 
-
+Low-end devices like low spec'd laptops, can sometimes be
+frustrating when a program loads very slowly, and when it comes
+to video conferencing, sometimes the program hangs due to
+high cpu usage, also crashing the program. The laptop camera
+sometimes would not respond resulting to display a black screen
+only. And microphone laptop has static feedback but good thing
+that video conferencing programs has noise suppression by
+default, resulting to less static feedback being heard by others
+and a clearer voice when speaking.
